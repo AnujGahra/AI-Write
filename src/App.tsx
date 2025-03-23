@@ -27,7 +27,8 @@ function App() {
             path="/"
             element={
               <main>
-                <Hero />
+                {/* Hero Section */}
+                <Hero /> 
                 <Features />
                 <Pricing />
                 <WhyIndia />
