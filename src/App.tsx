@@ -29,6 +29,7 @@ function App() {
               <main>
                 {/* Hero Section */}
                 <Hero /> 
+                {/* Features */}
                 <Features />
                 <Pricing />
                 <WhyIndia />
